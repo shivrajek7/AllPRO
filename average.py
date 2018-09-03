@@ -64,7 +64,7 @@ for i in range(0,5):
             for l in range(0, 5):
                 for m in range(0, 5):
                     if(i!=j&j!=k&k!=l&l!=m&m!=i):
-                        print(d[i],d[j],d[k],d[l])
+                        print(d[i],d[j],d[k],d[l],d[m])
 
 
 
